@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a28496b34d4f34cc69dd6364f697c87a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firepoint: {instanceID: 0}
+  - bulletPrefab: {fileID: 7271348183969545540, guid: 97e9815d9e32a0640b51650343b9868b,
+      type: 3}
+  - ShootingAudio: {instanceID: 0}
+  - FireClip: {fileID: 8300000, guid: c35d9aa0fc6a64914bbfc6b68a4910e1, type: 3}
+  - OpenClip: {fileID: 8300000, guid: 62dd0606b4dcc4685ae0ba99417c1ef6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
